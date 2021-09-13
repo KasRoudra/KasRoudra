@@ -29,9 +29,9 @@
 | _[PyPhisher](https://github.com/KasRoudra/pyphisher)_                          | Ultimate phishing tool in python with 51 website templates.     |
 | _[YT-Downloader](https://github.com/KasRoudra/YT-Downloader)_                  | Download youtube audio or videos from command line.             |
 | _[MusPlayer](https://github.com/KasRoudra/MusPlayer)_                         | Play music in termux by mpv.                                     |
-| _[Messenger-Desktop](https://github.com/KasRoudra/messengerdesktop)_           |  Messenger in desktop mode for easy file sharing.               |
-| _[K-Fuscator](https://github.com/KasRoudra/k-fuscator)_                        | Encrypt or decrypt shell script and compile python scripts      |
-
+| _[Messenger-Desktop](https://github.com/KasRoudra/messengerdesktop)_           |  Messenger in desktop mode for easy file sharing.                |
+| _[K-Fuscator](https://github.com/KasRoudra/k-fuscator)_                       | Encrypt or decrypt shell script and compile python scripts       |
+| _[CamHacker](https://github.com/KasRoudra/CamHacker)_                         | Hack anyone's camera with a phishing link.                       |
 <h4 align="center">All of these are open source!</h4>
 
 <h2 align="center"><u>My Github Stats</u></h2>
