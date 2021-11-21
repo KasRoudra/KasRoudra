@@ -46,15 +46,15 @@
 
 ### I've little contribution in:
 
-<a href="https://github.com/rajkumardusad/Tool-X">Tool-X</a>  <img src="https://img.shields.io/github/stars/rajkumardusad/Tool-X?style=for-the-badge">
+<a href="https://github.com/rajkumardusad/Tool-X">Tool-X  <img src="https://img.shields.io/github/stars/rajkumardusad/Tool-X.svg?style=social&label=Star&maxAge=2592000"> </a>
 
-<a href="https://github.com/rajkumardusad/onex">Onex</a>  <img src="https://img.shields.io/github/stars/rajkumardusad/onex?style=for-the-badge">
+<a href="https://github.com/rajkumardusad/onex">Onex  <img src="https://img.shields.io/github/stars/rajkumardusad/onex.svg?style=social&label=Star&maxAge=2592000"> </a>
 
-<a href="https://github.com/coderjojo/creative-profile-readme">Creative Profile Readme</a>  <img src="https://img.shields.io/github/stars/coderjojo/creative-profile-readme?style=for-the-badge">
+<a href="https://github.com/coderjojo/creative-profile-readme">Creative Profile Readme  <img src="https://img.shields.io/github/stars/coderjojo/creative-profile-readme.svg?style=social&label=Star&maxAge=2592000"> </a>
 
-<a href="https://github.com/jaykali/maskphish">MaskPhish</a>  <img src="https://img.shields.io/github/stars/jaykali/maskphish?style=for-the-badge">
+<a href="https://github.com/jaykali/maskphish">MaskPhish  <img src="https://img.shields.io/github/stars/jaykali/maskphish.svg?style=social&label=Star&maxAge=2592000"> </a>
 
-<a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates">Awesome Github Profile Readme Templates</a>  <img src="https://img.shields.io/github/stars/durgeshsamariya/awesome-github-profile-readme-templates?style=for-the-badge">
+<a href="https://github.com/durgeshsamariya/awesome-github-profile-readme-templates">Awesome Github Profile Readme Templates  <img src="https://img.shields.io/github/stars/durgeshsamariya/awesome-github-profile-readme-templates.svg?style=social&label=Star&maxAge=2592000"> </a>
 
 ### Contact me:
 
