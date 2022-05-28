@@ -1,6 +1,8 @@
 <h1 align="center">Hi visitor, I'm KasRoudra!</h1>
 <p align="center">
-<a href="https://kasroudra.github.io/" target="_blank"><img align="center" src="https://github.com/KasRoudra/kasroudra.github.io/raw/main/icons/android-512x512.png" alt="KasRoudra's Portfolio" height="100" width="100"></a>
+<a href="https://kasroudra.github.io/" target="_blank">
+   <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
+</a>
 <br>
 <img src="https://gpvc.arturio.dev/KasRoudra">
 </p>
@@ -105,7 +107,7 @@
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasRoudra&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb,supremeFolio">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasRoudra&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb,supremeFolio,kasroudra.github.io">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=KasRoudra&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula">
 <img src="https://metrics.lecoq.io/KasRoudra?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	
