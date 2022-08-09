@@ -94,13 +94,14 @@
 | Name                  | Description                                            |
 | ----------------------|------------------------------------------------------- |
 | _[Repository Readme Generator](https://github.com/KasRoudra/repository-readme-generator)_            | Generate a beautiful Readme.md for your repository.             |
-| _[PyPhisher](https://github.com/KasRoudra/pyphisher)_                          | Ultimate phishing tool in python with 65 website templates.     |
+| _[PyPhisher](https://github.com/KasRoudra/pyphisher)_                          | Ultimate phishing tool in python with 77 website templates.     |
 | _[VidPhisher](https://github.com/KasRoudra/VidPhisher)_                          | Get front camera videos of victim just by opening a link!     |
 | _[SupremeFolio](https://github.com/KasRoudra/supremeFolio)_                    | A clean, beautiful, responsive and 100% customizable portfolio template.                                                              | 
 | _[CamHacker](https://github.com/KasRoudra/CamHacker)_                          | Hack anyone's camera with a phishing link.                      |
+| _[Github-Stats](https://github.com/KasRoudra/github-stats)_                    | Generate a card with yout github statistics                     |
 | _[YT-Downloader](https://github.com/KasRoudra/YT-Downloader)_                  | Download youtube audio or videos from command line.             |
 | _[MusPlayer](https://github.com/KasRoudra/MusPlayer)_                          | Play music in termux by mpv.                                    |
-| _[Messenger-Desktop](https://github.com/KasRoudra/messengerdesktop)_           |  Messenger in desktop mode for easy file sharing.               |
+| _[Oh-My-Shell](https://github.com/KasRoudra/oh-my-shell)_                      | Empower your terminal with the might of fish and omf            |
 | _[K-Fuscator](https://github.com/KasRoudra/k-fuscator)_                        | Encrypt or decrypt shell script and compile python scripts      |
 | _[Local2Internet](https://github.com/KasRoudra/Local2Internet)_                | Expose locally hosted website into all over internet.           |
 
