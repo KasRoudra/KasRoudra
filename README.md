@@ -94,6 +94,7 @@
 | Name                  | Description                                            |
 | ----------------------|------------------------------------------------------- |
 | _[Repository Readme Generator](https://github.com/KasRoudra/repository-readme-generator)_            | Generate a beautiful Readme.md for your repository.             |
+| _[MaxPhisher](https://github.com/KasRoudra/MaxPhisher)_                          | A python script for login phishing, image phishing and more   |
 | _[PyPhisher](https://github.com/KasRoudra/pyphisher)_                          | Ultimate phishing tool in python with 77 website templates.     |
 | _[VidPhisher](https://github.com/KasRoudra/VidPhisher)_                          | Get front camera videos of victim just by opening a link!     |
 | _[SupremeFolio](https://github.com/KasRoudra/supremeFolio)_                    | A clean, beautiful, responsive and 100% customizable portfolio template.                                                              | 
