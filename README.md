@@ -4,7 +4,7 @@
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
 <br>
-<img src="https://gpvc.arturio.dev/KasRoudra">
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FKasRoudra&label=Github&icon=github&color=%23198754&message=&style=flat&tz=UTC">
 </p>
 <h3 align="center">Formerly a student but passionate in programming</h3>
 <h2 align="center"><u>Personal Details</u></h2>
@@ -93,13 +93,13 @@
 
 | Name                  | Description                                            |
 | ----------------------|------------------------------------------------------- |
-| _[Github Stats Card](https://github.com/KasRoudra/github-stats-card)_            | Get github stats in image which you can add in your readme(s) |
+| _[Github Stats Card](https://github.com/KasRoudra/github-stats-card)_          | Get github stats in image which you can add in your readme(s) |
 | _[Repository Readme Generator](https://github.com/KasRoudra/repository-readme-generator)_            | Generate a beautiful Readme.md for your repository.             |
-| _[MaxPhisher](https://github.com/KasRoudra/MaxPhisher)_                          | A python script for login phishing, image phishing and more   |
-| _[PyPhisher](https://github.com/KasRoudra/pyphisher)_                          | Ultimate phishing tool in python with 77 website templates.     |
-| _[VidPhisher](https://github.com/KasRoudra/VidPhisher)_                          | Get front camera videos of victim just by opening a link!     |
+| _[MaxPhisher](https://gitlab.com/KasRoudra/MaxPhisher)_                        | A python script for login phishing, image phishing and more   |
+| _[PyPhisher](https://gitlab.com/KasRoudra/PyPhisher)_                          | Ultimate phishing tool in python with 77 website templates.     |
+| _[VidPhisher](https://gitlab.com/KasRoudra/VidPhisher)_                        | Get front camera videos of victim just by opening a link!     |
 | _[SupremeFolio](https://github.com/KasRoudra/supremeFolio)_                    | A clean, beautiful, responsive and 100% customizable portfolio template.                                                              | 
-| _[CamHacker](https://github.com/KasRoudra/CamHacker)_                          | Hack anyone's camera with a phishing link.                      |
+| _[CamHacker](https://gitlab.com/KasRoudra/CamHacker)_                          | Hack anyone's camera with a phishing link.                      |
 | _[Github-Stats](https://github.com/KasRoudra/github-stats)_                    | Generate a card with yout github statistics                     |
 | _[YT-Downloader](https://github.com/KasRoudra/YT-Downloader)_                  | Download youtube audio or videos from command line.             |
 | _[MusPlayer](https://github.com/KasRoudra/MusPlayer)_                          | Play music in termux by mpv.                                    |
@@ -111,11 +111,13 @@
 
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
-<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/user?user=KasRoudra&layout=compact&theme=monokai"/></a>
-<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://kasroudra-stats-card.onrender.com/lang?user=KasRoudra&layout=compact&type=donut&theme=gruvbox&minimum=0.1"/></a>
+<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://stats-card.pages.dev/user?user=KasRoudra&layout=compact&theme=monokai"/></a>
+<br >
+<a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card"><img src="https://stats-card.pages.dev/lang?user=KasRoudra&layout=compact&type=donut&theme=gruvbox&minimum=0.1"/></a>
+<br >
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula">
-<img src="https://metrics.lecoq.io/KasRoudra?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
-<img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
+<br >
+<img align="center" src="https://github-profile-trophy-kannan.vercel.app/?username=KasRoudra&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
 </p>
 
 ### I've little contribution in:
